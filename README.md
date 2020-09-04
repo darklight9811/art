@@ -14,3 +14,9 @@ node /path/to/example/index.js
 And get the results and see if it continues working after your refactor.
 
 Good programming!
+
+## Why call it art?
+Well, I could've given it a lot of names. But I think art fits it well because I see programming as a art, it must be functional, but it also should be pretty and organized. Because 'anyone can program to a machine, but only good programmers can program to other people'. It requires time, pacience, persistance and dedication.
+
+## Contributors
+- Rafael Corrêa Chaves (rafael.correa@aposoftworks.com)

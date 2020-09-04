@@ -1,3 +1,4 @@
+// You get bonus points if you organized the env
 const env = require(`./env.json`);
 
 /**
